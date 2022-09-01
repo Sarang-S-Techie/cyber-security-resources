@@ -6,4 +6,11 @@ Hello folks, when I was a student, I always struggled to find some quality resou
 
 Where to learn Cyber Security Basics - 
 
+- Cybersecurity: an overview
+- Computer forensics
+- Assembly programming: towards reversing
+- Cyberdefense
+- Malware and Advanced Persistent Threats (APTs)
+- Vulnerabilities and exposures
+
 [Udemy](https://www.udemy.com/course/certified-secure-netizen/)
